@@ -1,0 +1,7 @@
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\bin\Debug\SimuladorTransacional.exe.config
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\bin\Debug\SimuladorTransacional.exe
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\bin\Debug\SimuladorTransacional.pdb
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\obj\Debug\SimuladorTransacional.csprojResolveAssemblyReference.cache
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\obj\Debug\SimuladorTransacional.exe
+c:\users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\obj\Debug\SimuladorTransacional.pdb
+C:\Users\gabri\documents\visual studio 2017\Projects\SimuladorTransacional\SimuladorTransacional\obj\Debug\SimuladorTransacional.csproj.CoreCompileInputs.cache

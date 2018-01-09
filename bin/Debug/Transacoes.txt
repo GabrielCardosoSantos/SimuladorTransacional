@@ -1,0 +1,4 @@
+T1: r(a), r(b), r(d)
+T2: w(c), w(a)
+T3: r(b), w(a)
+T4: w(c), r(a)
